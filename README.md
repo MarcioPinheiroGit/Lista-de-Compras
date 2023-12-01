@@ -1,4 +1,8 @@
-# Lista-de-Compras
+<div align=center>
+<img src="https://github.com/MarcioPinheiroGit/Lista-de-Compras/assets/148674272/54ff516b-105c-49a5-85b2-8a70618a133b.png" width="700">
+</div>
+
+# Lista de Compras
 ##### Aplicativo para controle de lista de compras
 ▪️ Banco de Dados ▪️ Fluxo de Informações ▪️ Controle de Acesso ▪️ API de Pagamentos
 
