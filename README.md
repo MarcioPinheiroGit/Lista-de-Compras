@@ -10,9 +10,9 @@ Aplicativo criado como material de treinamento para a criação de aplicativos w
 
 Esse é um simples app para entendimento das funcionalidades das ferramentas, banco de dados, e programação dos objetos.
 
-Como inspiração para as funcionalidades foram estudados a ferramenta de lista do google e outros app com as mesmas funções e lojas de aplicativos.
+Como inspiração para as funcionalidades foram estudados a ferramenta de lista do google e outros app com as mesmas funções em lojas de aplicativos.
 
-Esse aplicativo contém módulos de login e cadastro de lista que funciona como um lembrete dos itens que podem ser incluidos e editados a qualquer momento, com um marcador de 'comprado'
+Esse aplicativo contém módulos de login e cadastro de lista que funciona como um lembrete dos itens que podem ser incluidos e editados a qualquer momento, com um marcador de 'item comprado'
 
 
 ## 01-12-2023 - Próximos Passos
